@@ -5,11 +5,18 @@
     <Grid BackgroundColor="#282828">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+        <Label Text="Отозвать электронную подпись" TextColor="White" Grid.ColumnSpan="2" FontSize="25" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Button Text="Создать отзыв" BackgroundColor="#4c4c4c" TextColor="White" Clicked="Button_Clicked" Grid.ColumnSpan="2" Grid.Row="6" Margin="20" CornerRadius="20"/>
     </Grid>
 </ContentPage>
