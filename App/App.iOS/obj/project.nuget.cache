@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0tdRNfsAsd+hXQEGa4F4u1o265pAYWxZbHL1yywLGtUxXTF/yU0+A/7Z+dcbJgRGKErIQRNRKs50ZOkLgtWZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.iOS\\App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arsal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\arsal\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\arsal\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

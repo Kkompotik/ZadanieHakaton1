@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.MainPage">
+
+    <Grid x:Name="grid" BackgroundColor="#282828">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="label" Text="Приложение для подписания электронных документов" TextColor="White"  Grid.Row="0" FontSize="27" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+        <Button x:Name="button" Text="Создать новую электронную подпись" TextColor="White" FontSize="20" Grid.Row="1"  BackgroundColor="#858585" TextTransform="None" CornerRadius="20" Margin="0 40" Clicked="ButtonClick"/>
+        <Button x:Name="button1" Text="Отозвать электронную подпись" TextColor="White" FontSize="20" Grid.Row="2"  BackgroundColor="#6c6c6c" TextTransform="None" CornerRadius="20" Margin="0 40" Clicked="Button_Clicked_1"/>
+        <Button x:Name="button2" Text="Заявка на подписание документа" TextColor="White" FontSize="20" Grid.Row="3"  BackgroundColor="#5f5f5f" TextTransform="None" CornerRadius="20" Margin="0 40" Clicked="Button_Clicked_2"/>
+        <Button x:Name="button3" Text="История подписанных документов" TextColor="White" FontSize="20" Grid.Row="4"  BackgroundColor="#4c4c4c" TextTransform="None" CornerRadius="20" Margin="0 40" Clicked="Button_Clicked_3"/>
+        <Button x:Name="button4" Text="Личный кабинет" TextColor="White" FontSize="19" Grid.Row="9" Grid.Column="0" BackgroundColor="#858585" TextTransform="None" Margin="0 100" CornerRadius="20" Clicked="button4_Clicked"/>
+        <Switch OnColor="white" ThumbColor="Black" Grid.Row="8" Toggled="Switch_Toggled" />
+
+    </Grid>
+
+</ContentPage>
