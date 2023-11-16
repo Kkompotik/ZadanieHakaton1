@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.iOS\\App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.iOS\\App.iOS.csproj",
       "projectName": "App.iOS",
-      "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.iOS\\App.iOS.csproj",
+      "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.iOS\\App.iOS.csproj",
       "packagesPath": "C:\\Users\\arsal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.iOS\\obj\\",
+      "outputPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App\\App.csproj": {
-              "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App\\App.csproj"
+            "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App\\App.csproj": {
+              "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App\\App.csproj"
             }
           }
         }

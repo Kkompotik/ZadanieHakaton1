@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwgjQQcBibd4Yl/3c8Qhc0duy0LPzzOs65RoRLLHN/T/58twtM1+2PN0aTgXxG2TapVZLZLXDe87te+wF5vvhw==",
+  "dgSpecHash": "/ln9/hvqefI0OYWo02fOBlaCszWAZLO2THMROnjEuHRSzwnMkSV3KD7u0WLsJN7OtnHLyVWT2ICQuKPUmQnwfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App\\App.csproj",
+  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\arsal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

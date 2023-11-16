@@ -25,9 +25,9 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=false
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638357445061353695
+_nugetassetstimestamp=638357600720470132
 typemapkind=mvid
 androidsupportedabis=armeabi-v7a
 arm64-v8a
 androidmanifestplaceholders=
-projectfullpath=c:\users\arsal\source\repos\zadaniehakaton1\app\app.android\app.android.csproj
+projectfullpath=c:\users\arsal\source\repos\zadaniehakaton2\app\app.android\app.android.csproj

@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.Android\\App.Android.csproj",
+      "projectUniqueName": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.Android\\App.Android.csproj",
       "projectName": "App.Android",
-      "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.Android\\App.Android.csproj",
+      "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.Android\\App.Android.csproj",
       "packagesPath": "C:\\Users\\arsal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.Android\\obj\\",
+      "outputPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App\\App.csproj": {
-              "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App\\App.csproj"
+            "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App\\App.csproj": {
+              "projectPath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App\\App.csproj"
             }
           }
         }

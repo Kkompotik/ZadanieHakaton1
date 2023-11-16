@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfaeOrd7hF3C1GEJg/jkiGULqsaNaNHPgcdy22ojYZupAsXxVe3jKDkyNe1VRDyTFAmxUj6kICOyQvT+nxlZyw==",
+  "dgSpecHash": "0U6XpZVVVU7q6SkpQXqchN5RuIO89sdcTLJpXHn5Q7qwRMDZasLmuzReo9CjoknJ1q2MqXFo4rHxM0hEN3Pqbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton1\\App\\App.Android\\App.Android.csproj",
+  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.Android\\App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\arsal\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
