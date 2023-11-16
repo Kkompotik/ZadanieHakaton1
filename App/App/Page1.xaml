@@ -2,14 +2,28 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App.Page1">
-    <Grid BackgroundColor="DodgerBlue">
+    <Grid BackgroundColor="#282828">
         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
         </Grid.RowDefinitions>
+        <Label Text="Создание новой электронной подписи" TextColor="White" Grid.ColumnSpan="2" Grid.Row="0" FontSize="25" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Label Text="Название" Grid.Row="1" FontSize="20" TextColor="White" Margin="10" VerticalOptions="Center"/>
+        <Entry Placeholder="Название" Grid.Row="1" Grid.Column="1"/>
+        <Label Text="Описание" Grid.Row="2" FontSize="20" TextColor="White" Margin="10" VerticalOptions="Center"/>
+        <Entry Placeholder="Описание" Grid.Row="2" Grid.Column="1"/>
+        <Label Text="Дата создания" Grid.Row="3" FontSize="20" TextColor="White" Margin="10" VerticalOptions="Center"/>
+        <DatePicker TextColor="White" Grid.Column="1" Grid.Row="3" HorizontalOptions="StartAndExpand"/>
+        <Button Text="Выбрать файл" BackgroundColor="#4c4c4c" TextColor="White" Clicked="Button_Clicked" Grid.ColumnSpan="2" Grid.Row="5" Margin="20" CornerRadius="20"/>
+        <Button Text="Создать подпись" BackgroundColor="#4c4c4c" TextColor="White" Clicked="Button_Clicked_1" Grid.ColumnSpan="2" Grid.Row="6" Margin="20" CornerRadius="20"/>
     </Grid>
 </ContentPage>
