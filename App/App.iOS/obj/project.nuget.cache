@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QdmmsklVKGwufxTdCiwAye4e5jxQWxe+xTVclj2kWz9FZu8gjeYWd2eWOOGBOP69+dKS1k8dhndXYaMQC7N47Q==",
+  "dgSpecHash": "lPzV6wlB6H40TS8QJ5xXhKbaHI0HWlzGBwDX5DzwrzG8JBEFHx3OQOxcmkpMg7lWvMqAFAO2+sc+0Wed7PSPzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsal\\Source\\Repos\\ZadanieHakaton2\\App\\App.iOS\\App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\abasa\\Source\\Repos\\ZadanieHakaton1\\App\\App.iOS\\App.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\arsal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\arsal\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\arsal\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\abasa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abasa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\abasa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
